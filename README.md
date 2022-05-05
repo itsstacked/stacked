@@ -1,4 +1,4 @@
-This is a starterpack which includes [ReactJs](https://reactjs.org/), [tRPC](https://trpc.io/), [Prisma](https://www.prisma.io/), [NextJs](https://nextjs.org/), [Next-Auth](https://next-auth.js.org/), [Next-SEO](https://github.com/garmeeh/next-seo) & [TailwindCSS](https://tailwindcss.com/).
+This is a starterpack which includes [ReactJs](https://reactjs.org/), [tRPC](https://trpc.io/), [Prisma](https://www.prisma.io/), [NextJs](https://nextjs.org/), [Next-Auth](https://next-auth.js.org/) & [Next-SEO](https://github.com/garmeeh/next-seo).
 
 ![Stacked Image](https://i.imgur.com/AWaUxYi.png)
 
